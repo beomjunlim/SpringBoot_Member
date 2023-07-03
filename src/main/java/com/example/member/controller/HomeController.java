@@ -10,4 +10,5 @@ public class HomeController {
     public String index(){
         return "index"; // /라는 기본 요청이 왔을 때 templates 폴더의 index.hmtl을 찾아감
     }
+
 }
